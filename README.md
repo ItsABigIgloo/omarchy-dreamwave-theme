@@ -39,7 +39,7 @@ Designed for Neovim, Alacritty, btop, and Hyprland Walker menus, Dreamwave provi
 
 ---
 
-### 🖥 Terminal Colors
+### Terminal Colors
 
 | Color | Normal | Bright | Description |
 |--------|--------|--------|-------------|
