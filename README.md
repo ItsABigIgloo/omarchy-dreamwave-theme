@@ -16,44 +16,6 @@ Designed for Neovim, Alacritty, btop, and Hyprland Walker menus, Dreamwave provi
 
 ---
 
-### Color Palette
-
-#### Base Colors
-
-| Role | Hex | Description |
-|------|-----|--------------|
-| **Background** | `#0A0716` | Deep indigo-black, lo-fi night base |
-| **Foreground** | `#F5EAFD` | Soft white-violet, for clean readability |
-| **Secondary Background** | `#141024` | Muted violet-blue shadow tone |
-
-#### Accent Colors
-
-| Role | Hex | Description |
-|------|-----|-------------|
-| **Primary** | `#4A90E8` | Deep dreamy blue |
-| **Secondary** | `#7F53B7` | Muted violet accent |
-| **Highlight** | `#8C6DD6` | Soft neon purple |
-| **Inactive** | `#5E5B8E` | Dim bluish-gray text |
-| **Info / Glow** | `#A0B3FF` | Pale twilight blue |
-| **Error** | `#E35DA4` | Warm magenta-pink |
-
----
-
-### Terminal Colors
-
-| Color | Normal | Bright | Description |
-|--------|--------|--------|-------------|
-| **Black** | `#0A0716` | `#141024` | Deep dark background tones |
-| **Red** | `#A70B68` | `#F1279F` | Magenta-red, vivid yet soft |
-| **Green** | `#4A90E8` | `#7BB7FF` | Dreamy ocean blue |
-| **Yellow** | `#7F53B7` | `#B28CFF` | Purple highlight tones |
-| **Blue** | `#5E8CFF` | `#A0B3FF` | Calm twilight blue |
-| **Magenta** | `#8C6DD6` | `#CC8FFF` | Violet-neon accent |
-| **Cyan** | `#6EC4E8` | `#9EE7FF` | Soft aqua fade |
-| **White** | `#F5EAFD` | `#FFFFFF` | Gentle violet-white |
-
----
-
 ### Features
 
 - **Dreamy Blur & Glow:** Subtle glassy transparency for menus and status bars  
@@ -72,8 +34,6 @@ Designed for Neovim, Alacritty, btop, and Hyprland Walker menus, Dreamwave provi
 | **Alacritty** | Terminal palette mixing blues, violets, and soft magentas |
 | **btop** | Lofi gradients for all meters and panels |
 | **Walker (Hyprland)** | Frosted-blue panels with glowing selection pills |
-| **Waybar (optional)** | Dreamy pills and borders for modules |
-| **Wallpaper Pack (optional)** | Dreamwave gradient backgrounds for cohesive mood |
 
 ---
 
@@ -81,11 +41,13 @@ Designed for Neovim, Alacritty, btop, and Hyprland Walker menus, Dreamwave provi
 
 Install using:
 ```bash
-omarchy-theme-install https://github.com/yourname/dreamwave-theme/
+omarchy-theme-install https://github.com/RiO7MAKK3R/omarchy-dreamwave-theme.git
 ```
 OR 
+
 Copy the dreamwave directory to your Omarchy/Hyprland themes folder
-Suggested Font
+
+### Suggested Font
 
 JetBrains Mono or Iosevka Nerd Font —
 Clean, modern, and slightly rounded — perfect for the Dreamwave aesthetic.
